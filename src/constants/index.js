@@ -208,27 +208,31 @@ const projects = [
     image: carrent,
     source_code_link: "https://github.com/sagegottrill/PortfolioProjects/tree/main/Supervised%20Learning%20(Heart%20Disease)%20-%20Project",
   },
-  // {
-  //   name: "Job IT",
-  //   description:
-  //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-  //   tags: [
-  //     {
-  //       name: "react",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "restapi",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "scss",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: jobit,
-  //   source_code_link: "https://github.com/",
-  // },
+  {
+    name: "Breedify",
+    description:
+      "An AI-powered image classification model that uses transfer learning and TensorFlow to accurately identify over 120 dog breeds, simplifying pet profiling and showcasing the power of deep learning.",
+    tags: [
+      {
+        name: "tensorflow & keras",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Scikit Learn",
+        color: "green-text-gradient",
+      },
+      {
+        name: "NumPy & Pandas",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "matplotlib",
+        color: "orange-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/sagegottrill/PortfolioProjects/tree/main/Supervised%20Learning%20(Breedify)",
+  },
   // {
   //   name: "Trip Guide",
   //   description:
