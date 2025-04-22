@@ -101,45 +101,45 @@ const technologies = [
 ];
 
 const experiences = [
-  {
-    title: "AI Research Intern",
-    company_name: "Vertex Innovations",
-    icon: starbucks,
-    iconBg: "#383E56",
-    date: "2019 - 2020",
-    points: [
-    "Developed deep learning models for automated essay grading, reducing grading time for educators by 50% while maintaining accuracy.",
-    "Researched reinforcement learning techniques to enhance gamified learning experiences, boosting student participation by 28%.",
-    "Built an AI-powered recommendation engine for personalized course suggestions, increasing user engagement by 35%.",
-    "Published research on AI-driven learning analytics in a leading industry journal.",
-    ]
-  },
-  {
-    title: "Data Analyst",
-    company_name: "Stratos Technologies",  
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "2020 - 2021",
-    points: [
-    "Developed Power BI dashboards for an e-learning platform, enabling real-time tracking of student performance and engagement.",
-    "Conducted A/B testing on curriculum changes, leading to a 15% improvement in knowledge retention among students.",
-    "Identified cost-saving opportunities for corporate training programs, optimizing resource allocation and reducing training expenses by $250,000 annually.",
-    "Analyzed market trends and learning behaviors, improving strategic decisions in educational content development.",
-    ],
-  },
-  {
-    title: "Machine Learning Engineer",
-    company_name: "Quantum Analytics",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "2022 - 2023",
-    points: [
-    "Designed an AI-driven adaptive learning system, dynamically adjusting content difficulty based on student performance, improving course completion rates by 35%.",
-    "Optimized NLP-based virtual tutors, reducing student query response times by 42% and enhancing personalized learning support.",
-    "Automated data pipelines for financial and educational institutions, cutting manual reporting efforts by 60%.",
-    "Deployed machine learning models for credit risk assessment, improving loan approval efficiency by 25% in fintech applications.",
-    ],
-  },
+  // {
+  //   title: "AI Research Intern",
+  //   company_name: "Vertex Innovations",
+  //   icon: starbucks,
+  //   iconBg: "#383E56",
+  //   date: "2019 - 2020",
+  //   points: [
+  //   "Developed deep learning models for automated essay grading, reducing grading time for educators by 50% while maintaining accuracy.",
+  //   "Researched reinforcement learning techniques to enhance gamified learning experiences, boosting student participation by 28%.",
+  //   "Built an AI-powered recommendation engine for personalized course suggestions, increasing user engagement by 35%.",
+  //   "Published research on AI-driven learning analytics in a leading industry journal.",
+  //   ]
+  // },
+  // {
+  //   title: "Data Analyst",
+  //   company_name: "Stratos Technologies",  
+  //   icon: tesla,
+  //   iconBg: "#E6DEDD",
+  //   date: "2020 - 2021",
+  //   points: [
+  //   "Developed Power BI dashboards for an e-learning platform, enabling real-time tracking of student performance and engagement.",
+  //   "Conducted A/B testing on curriculum changes, leading to a 15% improvement in knowledge retention among students.",
+  //   "Identified cost-saving opportunities for corporate training programs, optimizing resource allocation and reducing training expenses by $250,000 annually.",
+  //   "Analyzed market trends and learning behaviors, improving strategic decisions in educational content development.",
+  //   ],
+  // },
+  // {
+  //   title: "Machine Learning Engineer",
+  //   company_name: "Quantum Analytics",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "2022 - 2023",
+  //   points: [
+  //   "Designed an AI-driven adaptive learning system, dynamically adjusting content difficulty based on student performance, improving course completion rates by 35%.",
+  //   "Optimized NLP-based virtual tutors, reducing student query response times by 42% and enhancing personalized learning support.",
+  //   "Automated data pipelines for financial and educational institutions, cutting manual reporting efforts by 60%.",
+  //   "Deployed machine learning models for credit risk assessment, improving loan approval efficiency by 25% in fintech applications.",
+  //   ],
+  // },
   {
     title: "Data Scientist",
     company_name: "Bata Learner",
